@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+
+Sitemap: https://USERNAME.github.io/mohamed-ibrahim-contracting/sitemap.xml
